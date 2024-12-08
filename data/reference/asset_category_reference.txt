@@ -1,0 +1,26 @@
+1. Current assets
+Current assets typically include anything a company expects it will convert into cash within a year, such as:
+- Cash and cash equivalents
+- Prepaid expenses
+- Inventory
+- Marketable securities
+- Accounts receivable
+
+2. Fixed assets
+Fixed Assets assets typically include long-term investments that aren’t expected to be converted into cash in the short term, such as:
+- Tangible Aseets
+    - Land
+    - Patents
+    - Equipment used to produce goods or perform services
+- Intangible Assets
+    - Goodwill
+    - brand
+- Financial Assets
+    - Investments
+    - Loan
+
+3. Differed charges
+Deferred charges are costs incurred due to business operations but are to be expensed over multiple accounting periods, 
+such as deferred tax assets
+
+4. Other assets

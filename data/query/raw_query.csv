@@ -1,0 +1,28 @@
+﻿分類,小分類,項目,説明,回答(M USD)
+流動資産 (Current Assets),,,"=Quick assets+Inventories, net+Other current assets",14688
+,短期投資(Quick Assets),短期投資合計,以下3項目の合計と一致する,8187
+,,現金及び現金同等物 (Cash & Cash Equivalents),手元にある現金やすぐに現金に換えられる資産,3655
+,,売掛金 (Accounts Receivable - Trade),取引先からの未回収の売上金,4532
+,,その他の短期投資 (Other Quick Assets),短期間で現金化可能なその他の資産,0
+,"棚卸資産 (Inventories, Net)","棚卸資産 (Inventories, Net)",販売用の商品や原材料の在庫,5372
+,Other current assets,Other current assets,以下4項目の合計と一致する,1129
+,,有価証券 (Marketable Securities),株式や債券などの売買可能な証券,238
+,,短期貸付金 (Short-term Loan),短期間で回収予定の貸付金,0
+,,前払金 (Advance Payments),事前に支払った金額,0
+,,その他の流動資産 (Other Current Assets),上記に該当しないその他の流動資産,891
+固定資産 (Fixed Assets),,total fixed assets,=Tangible assets + Intangible assets + Financial assets + Other fixed assets,31767
+,有形固定資産 (Tangible Assets),有形固定資産 (Tangible Assets),以下5項目の合計と一致する。物理的な形を持つ長期使用を目的とした資産。土地、建物、機械装置などが含まれる。,10007
+,,土地 (Land),企業が所有する土地。減価償却の対象外で、永続的な価値を持つ,255
+,,建物 (Buildings),事務所、工場、倉庫など、企業活動を行うための建築物。時間の経過とともに減価償却される。,7560
+,,機械装置 (Plant & Machinery),生産活動や業務遂行に直接使用される機械や装置。使用に伴い減価償却される。,16455
+,,建設中の資産 (Construction in Progress),建設中でまだ使用されていない建物や設備。完成後、該当する資産カテゴリーに移動される。,1728
+,,その他の設備 (Other Equipment),上記に該当しないその他の設備や器具。事務用品、コンピューター機器などが含まれ、使用に伴い減価償却される。,829
+,,(減価償却累計) (Accumulated Depreciation),資産の価値減少分,-16820
+,無形固定資産 (Intangible Assets),無形固定資産 (Intangible Assets),特許権や商標権などの形のない資産,17489
+,Financial Assets,投資その他の資産 (Financial Assets),以下3項目の合計と一致する。企業が長期的な収益を目的として保有する資産。これには投資、長期貸付金、その他の金融資産、その他の固定資産が含まれる。,2530
+,,投資 (Investments),他社株式や不動産など、収益を生むために行われる長期投資。,967
+,,長期貸付金 (Long-term Loan),他の企業や個人へ提供された、回収期間が1年を超える貸付金。,0
+,,その他の金融資産 (Other Financial Assets),投資証券や長期の預金・貸付金など、上記に該当しないその他の金融に関連する資産。,1563
+,その他の固定資産 (Other Fixed Assets),その他の固定資産 (Other Fixed Assets),特許権、著作権、使用権など、有形固定資産や投資以外の長期的に使用される資産。,1741
+繰延資産 (Deferred Charges),,,事業活動によって発生した費用であるが、複数の会計期間にわたって費用として計上されるべきもの。前払費用、繰延税金資産などが含まれる。,0
+資産合計,,,,46455

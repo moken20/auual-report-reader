@@ -1,0 +1,151 @@
+{
+  "categories": [
+    {
+      "name": "Current assets",
+      "accounts": [
+        {
+          "name": "Cash and cash equivalents",
+          "amount": 13068
+        },
+        {
+          "name": "Restricted cash",
+          "amount": 21
+        },
+        {
+          "name": "Marketable securities",
+          "amount": 373
+        },
+        {
+          "name": "Notes and accounts receivable\u2014trade (net of allowances of $192 in 2023 and $233 in 2022)",
+          "amount": 7214
+        },
+        {
+          "name": "Short-term financing receivables",
+          "amount": null
+        },
+        {
+          "name": "Held for investment (net of allowances of $129 in 2023 and $145 in 2022)",
+          "amount": 6102
+        },
+        {
+          "name": "Held for sale",
+          "amount": 692
+        },
+        {
+          "name": "Other accounts receivable (net of allowances of $109 in 2023 and $89 in 2022)",
+          "amount": 640
+        },
+        {
+          "name": "Inventory",
+          "amount": 1161
+        },
+        {
+          "name": "Deferred costs",
+          "amount": 998
+        },
+        {
+          "name": "Prepaid expenses and other current assets",
+          "amount": 2639
+        }
+      ]
+    },
+    {
+      "name": "Property, plant and equipment",
+      "accounts": [
+        {
+          "name": "Property, plant and equipment",
+          "amount": 18122
+        },
+        {
+          "name": "Less: Accumulated depreciation",
+          "amount": 12621
+        },
+        {
+          "name": "Property, plant and equipment\u2014net",
+          "amount": 5501
+        }
+      ]
+    },
+    {
+      "name": "Operating right-of-use assets\u2014net",
+      "accounts": [
+        {
+          "name": "Operating right-of-use assets\u2014net",
+          "amount": 3220
+        }
+      ]
+    },
+    {
+      "name": "Long-term financing receivables (net of allowances of $27 in 2023 and $28 in 2022)",
+      "accounts": [
+        {
+          "name": "Long-term financing receivables (net of allowances of $27 in 2023 and $28 in 2022)",
+          "amount": 5766
+        }
+      ]
+    },
+    {
+      "name": "Prepaid pension assets",
+      "accounts": [
+        {
+          "name": "Prepaid pension assets",
+          "amount": 7506
+        }
+      ]
+    },
+    {
+      "name": "Deferred costs",
+      "accounts": [
+        {
+          "name": "Deferred costs",
+          "amount": 842
+        }
+      ]
+    },
+    {
+      "name": "Deferred taxes",
+      "accounts": [
+        {
+          "name": "Deferred taxes",
+          "amount": 6656
+        }
+      ]
+    },
+    {
+      "name": "Goodwill",
+      "accounts": [
+        {
+          "name": "Goodwill",
+          "amount": 60178
+        }
+      ]
+    },
+    {
+      "name": "Intangible assets\u2014net",
+      "accounts": [
+        {
+          "name": "Intangible assets\u2014net",
+          "amount": 11036
+        }
+      ]
+    },
+    {
+      "name": "Investments and sundry assets",
+      "accounts": [
+        {
+          "name": "Investments and sundry assets",
+          "amount": 1626
+        }
+      ]
+    },
+    {
+      "name": "Total assets",
+      "accounts": [
+        {
+          "name": "Total assets",
+          "amount": 135241
+        }
+      ]
+    }
+  ]
+}

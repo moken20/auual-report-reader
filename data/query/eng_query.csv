@@ -1,0 +1,28 @@
+Classification,Sub-classification,Item,Description,Answer (M USD)
+Current Assets,,total current asset,"=Quick assets+Inventories, net+Other current assets",14688
+,Quick Assets,Total Quick Assets,Matches the sum of the following three items,8187
+,,Cash & Cash Equivalents,Cash on hand and assets that can be quickly converted to cash,3655
+,,Accounts Receivable - Trade,Outstanding sales receivables from customers,4532
+,,Other Quick Assets,Other assets that can be liquidated in the short term,0
+,"Inventories, Net","Inventories, Net",Inventory of goods for sale or raw materials,5372
+,Other current assets,Other current assets,Matches the sum of the following four items,1129
+,,Marketable Securities,Marketable securities such as stocks and bonds,238
+,,Short-term Loan,Loans receivable expected to be collected in the short term,0
+,,Advance Payments,Prepaid amounts,0
+,,Other Current Assets,Other current assets not included in the above categories,891
+Fixed Assets,,total fixed assets,=Tangible assets + Intangible assets + Financial assets + Other fixed assets,31767
+,Tangible Assets,Tangible Assets,"Matches the sum of the following five items. Physical assets intended for long-term use, including land, buildings, and machinery.",10007
+,,Land,Land owned by the company. Excluded from depreciation and retains permanent value.,255
+,,Buildings,"Buildings such as offices, factories, and warehouses used for business operations. Depreciates over time.",7560
+,,Plant & Machinery,Machinery and equipment used directly in production or operations. Depreciates with use.,16455
+,,Construction in Progress,Buildings or facilities under construction and not yet in use. Reclassified upon completion.,1728
+,,Other Equipment,"Other equipment or devices not included above, such as office supplies and computers. Depreciates with use.",829
+,,Accumulated Depreciation,Value reduction of assets,-16820
+,Intangible Assets,Intangible Assets,Assets without physical form such as patents and trademarks,17489
+,Financial Assets,Financial Assets,"Matches the sum of the following three items. Assets held for long-term income generation, including investments, long-term loans, and other financial assets.",2530
+,,Investments,Long-term investments in other companies’ stock or real estate for income generation.,967
+,,Long-term Loan,Loans provided to other companies or individuals with a repayment period exceeding one year.,0
+,,Other Financial Assets,"Other financial-related assets not included above, such as securities or long-term deposits and loans.",1563
+,Other Fixed Assets,Other Fixed Assets,"Patents, copyrights, usage rights, and other long-term assets not included in tangible or investment assets.",1741
+Deferred Charges,,Deferred Charges,Costs incurred in business activities to be recognized as expenses over multiple accounting periods. Includes prepaid expenses and deferred tax assets.,0
+Total Assets,,,,46455

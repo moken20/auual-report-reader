@@ -1,0 +1,30 @@
+[tool.poetry]
+name = "auual-report-reader"
+version = "0.1.0"
+description = ""
+authors = ["moken20 <ryota.kemmoku@keio.jp>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pymupdf = "^1.25.0"
+jupyter = "^1.1.1"
+tabula-py = "^2.10.0"
+pandas = "^2.2.3"
+pdfplumber = "^0.11.4"
+pypdf = "^5.1.0"
+langchain = "0.2.4"
+langchain-openai = "0.1.8"
+llmwhisperer-client = "2.0.0"
+pydantic = "2.7.4"
+python-dotenv = "1.0.1"
+llama-index-core = "^0.12.3"
+llama-parse = "^0.5.17"
+llama-index-readers-file = "^0.4.1"
+nest-asyncio = "^1.6.0"
+
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

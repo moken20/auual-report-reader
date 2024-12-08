@@ -1,0 +1,200 @@
+[
+  {
+    "name": "Current assets",
+    "accounts": [
+      {
+        "name": "Cash and cash equivalents",
+        "amount": 3655
+      },
+      {
+        "name": "Marketable securities \u2014 current",
+        "amount": 238
+      },
+      {
+        "name": "Accounts receivable \u2014 net of allowances of $174 and $189",
+        "amount": 4532
+      },
+      {
+        "name": "Finished goods",
+        "amount": 2497
+      },
+      {
+        "name": "Work in process",
+        "amount": 1606
+      },
+      {
+        "name": "Raw materials and supplies",
+        "amount": 1269
+      },
+      {
+        "name": "Total inventories",
+        "amount": 5372
+      },
+      {
+        "name": "Prepaids",
+        "amount": 435
+      },
+      {
+        "name": "Other current assets",
+        "amount": 456
+      },
+      {
+        "name": "Total current assets",
+        "amount": 14688
+      }
+    ]
+  },
+  {
+    "name": "Property, plant and equipment",
+    "accounts": [
+      {
+        "name": "Property, plant and equipment",
+        "amount": 25998
+      },
+      {
+        "name": "Less: Accumulated depreciation",
+        "amount": -16820
+      },
+      {
+        "name": "Property, plant and equipment \u2014 net",
+        "amount": 9178
+      }
+    ]
+  },
+  {
+    "name": "Operating lease right of use assets",
+    "accounts": [
+      {
+        "name": "Operating lease right of use assets",
+        "amount": 829
+      }
+    ]
+  },
+  {
+    "name": "Goodwill",
+    "accounts": [
+      {
+        "name": "Goodwill",
+        "amount": 12790
+      }
+    ]
+  },
+  {
+    "name": "Intangible assets \u2014 net",
+    "accounts": [
+      {
+        "name": "Intangible assets \u2014 net",
+        "amount": 4699
+      }
+    ]
+  },
+  {
+    "name": "Other assets",
+    "accounts": [
+      {
+        "name": "Other assets",
+        "amount": 4271
+      }
+    ]
+  },
+  {
+    "name": "Total assets",
+    "accounts": [
+      {
+        "name": "Total assets",
+        "amount": 46455
+      }
+    ]
+  },
+  {
+    "name": "Other current assets",
+    "accounts": [
+      {
+        "name": "Derivative assets-current",
+        "amount": 162
+      },
+      {
+        "name": "Insurance related (receivables, prepaid expenses and other)",
+        "amount": 103
+      },
+      {
+        "name": "Other",
+        "amount": 191
+      },
+      {
+        "name": "Total other current assets",
+        "amount": 456
+      }
+    ]
+  },
+  {
+    "name": "Property, plant and equipment - at cost",
+    "accounts": [
+      {
+        "name": "Land",
+        "amount": 255
+      },
+      {
+        "name": "Buildings and leasehold improvements",
+        "amount": 7560
+      },
+      {
+        "name": "Machinery and equipment",
+        "amount": 16455
+      },
+      {
+        "name": "Construction in progress",
+        "amount": 1728
+      },
+      {
+        "name": "Gross property, plant and equipment",
+        "amount": 25998
+      },
+      {
+        "name": "Accumulated depreciation",
+        "amount": -16820
+      },
+      {
+        "name": "Property, plant and equipment - net",
+        "amount": 9178
+      }
+    ]
+  },
+  {
+    "name": "Other assets",
+    "accounts": [
+      {
+        "name": "Deferred income taxes",
+        "amount": 959
+      },
+      {
+        "name": "Prepaid pension and post retirement",
+        "amount": 1225
+      },
+      {
+        "name": "Insurance related receivables and other",
+        "amount": 73
+      },
+      {
+        "name": "Cash surrender value of life insurance policies",
+        "amount": 265
+      },
+      {
+        "name": "Equity method investments",
+        "amount": 81
+      },
+      {
+        "name": "Equity and other investments",
+        "amount": 886
+      },
+      {
+        "name": "Other",
+        "amount": 782
+      },
+      {
+        "name": "Total other assets",
+        "amount": 4271
+      }
+    ]
+  }
+]
